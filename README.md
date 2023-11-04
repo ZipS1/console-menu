@@ -14,6 +14,3 @@
    </br>*ConsoleMenu template parameters is function input parameters
    you specified for function pointers*
 7. Call method .run() with parameters you specified.
-
-### Planned TODOs:
-- Fix an input of string with spaces
